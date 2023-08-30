@@ -1,0 +1,10 @@
+.footer{
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    width: 100%;
+    font-size: large;
+    font-family: cursive,'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
